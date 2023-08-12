@@ -1,0 +1,16 @@
+{
+  "name": "baileys-integration-youtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohammed khan",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.3.1",
+    "express": "^4.18.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
